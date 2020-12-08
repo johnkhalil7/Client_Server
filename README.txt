@@ -1,5 +1,3 @@
-CIS-427 Project - 1
-Program By: Hadi Daana and Johnathan Khalil
 
 README file
 
