@@ -1,8 +1,3 @@
-/*
- * client.c
- */
- //Program By: Hadi Daana and Johnathan Khalil
- //Program Name: CIS 427 Project 1
 
 #include <stdio.h>
 #include <iostream>
